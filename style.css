@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(85, 169, 242);
+}
+.article1{
+    background-color: aliceblue;
+}
+.zagolovok{
+    background-color: rgb(235, 232, 232);
+}
+.gallery{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.gallery1{
+    width: 300px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+    display: inline-block;
+    background-color: #EB4B4B;
+    padding: 30px;
+    border-radius: 15px;
+}
